@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import springmvcdispatch.component.EventHolder;
 import springmvcdispatch.model.Participant;
 
-import java.beans.EventHandler;
-
 @Controller
 public class EventController {
 
